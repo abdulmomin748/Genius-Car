@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c36b0cc4.css",
+    "main.js": "/static/js/main.308ee9e8.js",
+    "static/js/787.6198c1d5.chunk.js": "/static/js/787.6198c1d5.chunk.js",
+    "static/media/person.jpg": "/static/media/person.946b62323b8beee0fab8.jpg",
+    "static/media/6.jpg": "/static/media/6.b18dd0e62cb4e0fdbe7d.jpg",
+    "static/media/2.jpg": "/static/media/2.633a6ac636906e1d0fad.jpg",
+    "static/media/1.jpg": "/static/media/1.4e475131b84d3136b09f.jpg",
+    "static/media/5.jpg": "/static/media/5.5369d3ba48241a246f54.jpg",
+    "static/media/4.jpg": "/static/media/4.2f62022d0a5004b2288f.jpg",
+    "static/media/3.jpg": "/static/media/3.c91e1e0921121617da2a.jpg",
+    "static/media/parts.jpg": "/static/media/parts.5d7c45c1faece42734fc.jpg",
+    "static/media/login.svg": "/static/media/login.2b00a57b9fea2b1d57315ac4bdd1c48b.svg",
+    "static/media/logo.svg": "/static/media/logo.a2470400f180bfac8d97880fc478101e.svg",
+    "static/media/gmail.svg": "/static/media/gmail.b8ad2afc68d6f53ece5f359efc228e0a.svg",
+    "index.html": "/index.html",
+    "static/media/link.svg": "/static/media/link.2e7f785ead3a9d3e01aa6ede51d5a131.svg",
+    "static/media/fa.svg": "/static/media/fa.50e906998d743feaaf65078d053b2d2d.svg",
+    "main.c36b0cc4.css.map": "/static/css/main.c36b0cc4.css.map",
+    "main.308ee9e8.js.map": "/static/js/main.308ee9e8.js.map",
+    "787.6198c1d5.chunk.js.map": "/static/js/787.6198c1d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c36b0cc4.css",
+    "static/js/main.308ee9e8.js"
+  ]
+}
